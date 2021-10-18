@@ -2,7 +2,7 @@ import { Icon } from "@iconify/react";
 
 const Footer = () => {
   return (
-    <div class="flex justify-center w-screen py-4 fixed bottom-0 items-center">
+    <div class="flex justify-center w-screen py-4 bottom-0 items-center">
       <a href="https://github.com/myfriendpaul" target="_blank">
         <Icon
           icon="jam:github"
