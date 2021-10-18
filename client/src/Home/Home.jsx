@@ -16,9 +16,9 @@ export default function Home() {
           I'm a tech enthusiast turned Software Engineer. Over time, I've had
           the opportunities to manage teams and develop solutions for businesses
           and consumers alike. I aim to bring my ambition to the tech industry
-          to produce viable, user‐friendly, applications. How you may ask? Well,
+          to produce viable, user‐friendly applications. How you may ask? Well,
           a little team-work, positive attitude and some comedic relief go a
-          long way. <br />
+          long way! <br />
           {/* Feel free to checkout my{" "}
           <a
             href="https://github.com/myfriendpaul"
