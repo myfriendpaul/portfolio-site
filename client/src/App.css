@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+.background {
+}
+
+.center-profile {
+  font-family: Montserrat, "Helvetica Neue";
+  z-index: 1;
+}
+
+.particle-background {
+  z-index: -5;
+}
