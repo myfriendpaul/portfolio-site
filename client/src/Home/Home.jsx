@@ -1,4 +1,6 @@
 import React from "react";
+import Footer from "../Footer/Footer";
+import { Icon } from "@iconify/react";
 
 export default function Home() {
   return (
@@ -19,30 +21,27 @@ export default function Home() {
           to produce viable, user‐friendly applications. How you may ask? Well,
           a little team-work, positive attitude and some comedic relief go a
           long way! <br />
-          {/* Feel free to checkout my{" "}
-          <a
-            href="https://github.com/myfriendpaul"
-            class="py-4 underline  text-gray-600 hover:text-gray-300
-            ext-sm md:text-2xl lg:text-2xl"
-          >
-            Github
-          </a>{" "}
-          and download my resume{" "}
-          <a
-            class="underline"
-            href="https://drive.google.com/uc?export=download&id=13vLZhrk0xgnxP6EwRM_qN4kKh3XPcIKG"
-            download
-          >
-            here.
-          </a> */}
         </h4>
-      </div>
-      <div>
-        {/* <img
-            src="https://imgur.com/wERqsOS.jpg"
-            alt="Paul Gonzalez Picture"
-            class="w-64 md:w-72 rounded shadow-2xl sm:mr-10"
-          /> */}
+        <div class="flex justify-center w-screen py-4 bottom-0 items-center">
+          <a href="https://github.com/myfriendpaul" target="_blank">
+            <Icon
+              icon="jam:github"
+              color="#4b5563"
+              width="42"
+              height="42"
+              class="mx-4"
+            />
+          </a>
+          <a href="https://www.linkedin.com/in/myfriendpaul/" target="_blank">
+            <Icon
+              icon="cib:linkedin"
+              color="#4b5563"
+              width="40"
+              height="40"
+              class="mx-4"
+            />
+          </a>
+        </div>
       </div>
     </div>
   );

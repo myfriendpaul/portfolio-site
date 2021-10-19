@@ -26,7 +26,7 @@ function App() {
       <div className="particle-background">
         <ParticleBackground />
       </div>
-      <Footer />
+      <Footer class="flex justify-center w-screen py-4 bottom-0  items-center" />
     </div>
   );
 }
