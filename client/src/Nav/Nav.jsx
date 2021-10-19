@@ -55,21 +55,20 @@ const Nav = () => {
       >
         <Link
           to="/projects"
-          class="block py-4 text-sm  text-gray-600 hover:text-gray-300"
+          class="block py-4 text-sm  text-gray-600 bg-white hover:bg-gray-300 pr-2"
         >
           Projects
         </Link>
         <Link
           to="resume"
-          target="_blank"
           class="block py-4 text-sm  text-gray-600
-          hover:text-gray-300"
+          bg-white hover:bg-gray-300 pr-2"
         >
           Resume
         </Link>
         <Link
           to="/contact"
-          class="block py-4 text-sm  text-gray-600 hover:text-gray-300"
+          class="block py-4 text-sm  text-gray-600 bg-white hover:bg-gray-300 pr-2"
         >
           Contact
         </Link>

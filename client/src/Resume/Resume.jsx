@@ -11,14 +11,6 @@ export const Resume = () => {
   return (
     <div className="resume-container">
       <div>
-        <div className="download">
-          <a
-            href="https://drive.google.com/uc?export=download&id=13vLZhrk0xgnxP6EwRM_qN4kKh3XPcIKG"
-            class="py-4 text-sm  text-gray-600 hover:text-gray-300"
-          >
-            Download Resume
-          </a>
-        </div>
         <iframe
           className="resume"
           src="https://drive.google.com/file/d/13vLZhrk0xgnxP6EwRM_qN4kKh3XPcIKG/preview"

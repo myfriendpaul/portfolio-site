@@ -42,7 +42,7 @@ export default function ContactForm() {
   return (
     <>
       {" "}
-      <div className="w-full max-w-sm mx-auto  border border-gray-100 rounded-md ">
+      <div className="w-full h- max-w-sm mx-auto  border border-gray-100 rounded-md ">
         {" "}
         {!isSubmitSuccessful && (
           <form onSubmit={handleSubmit(onSubmit)} class="mt-48">
