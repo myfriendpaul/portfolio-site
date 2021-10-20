@@ -17,7 +17,7 @@ export default function SeentIt() {
             </p>
             <div>
               <a
-                href="https://github.com/myfriendpaul/OnlyStonks"
+                href="https://github.com/myfriendpaul/seent-it"
                 target="_blank"
                 class="px-2"
               >
@@ -32,6 +32,15 @@ export default function SeentIt() {
               >
                 <button class="h-10 px-5 gray-indigo-700 transition-colors duration-150 border border-gray-500 rounded-lg focus:shadow-outline hover:bg-gray-500 hover:text-indigo-100">
                   Website
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/5WFODIwVcjQ"
+                class="px-2"
+                target="_blank"
+              >
+                <button class="h-10 px-5 gray-indigo-700 transition-colors duration-150 border border-gray-500 rounded-lg focus:shadow-outline hover:bg-gray-500 hover:text-indigo-100">
+                  Demo
                 </button>
               </a>
             </div>

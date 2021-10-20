@@ -26,12 +26,21 @@ export default function BoomRoasted() {
                 </button>
               </a>
               <a
-                src="https://boomroasted.netlify.app/"
+                href="https://boomroasted.netlify.app/"
                 target="_blank"
                 class="px-2"
               >
                 <button class="h-10 px-5 gray-indigo-700 transition-colors duration-150 border border-gray-500 rounded-lg focus:shadow-outline hover:bg-gray-500 hover:text-indigo-100">
                   Website
+                </button>
+              </a>
+              <a
+                href="https://youtu.be/hELPoDDO0Oc"
+                class="px-2"
+                target="_blank"
+              >
+                <button class="h-10 px-5 gray-indigo-700 transition-colors duration-150 border border-gray-500 rounded-lg focus:shadow-outline hover:bg-gray-500 hover:text-indigo-100">
+                  Demo
                 </button>
               </a>
             </div>
