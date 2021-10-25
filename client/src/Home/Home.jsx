@@ -14,13 +14,18 @@ export default function Home() {
         <h2 className="hero-text" class="font-bold text-6xl text-gray-300">
           Hi, I'm Paul
         </h2>
-        <h4 class="text-sm md:text-2xl lg:text-2xl text-gray-600 mt-10 px-5 ">
-          I'm a tech enthusiast turned Software Engineer. Over time, I've had
-          the opportunities to manage teams and develop solutions for businesses
-          and consumers alike. I aim to bring my ambition to the tech industry
-          to produce viable, user‐friendly applications. How you may ask? Well,
-          a little team-work, positive attitude and some comedic relief go a
-          long way! <br />
+        <h4 class="text-sm md:text-2xl md:px-32  lg:text-2xl text-gray-600 mt-10 px-5 ">
+          I'm a retail manager turned software engineer. I have utilized my
+          people and team-building skills to train and develop sales teams that
+          perform at the highest level. I left a sector I enjoyed and thrived in
+          to bet on myself. I have taken on an opportunity to expand my
+          technical skills and passion for growth by continuing my education and
+          becoming a software engineer. I am always pursuing the opportunity to
+          learn and grow as an individual and now, as a developer. I am
+          goal-driven, people oriented, and impactful. I aim to bring my
+          ambitious mindset to the tech industry to produce viable,
+          user-friendly, solutions-oriented applications with a little comedic
+          relief along the way! <br />
         </h4>
         <div class="flex justify-center w-screen py-4 bottom-0 items-center">
           <a href="https://github.com/myfriendpaul" target="_blank">
