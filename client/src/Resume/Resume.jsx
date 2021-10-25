@@ -13,7 +13,7 @@ export const Resume = () => {
       <div>
         <iframe
           className="resume"
-          src="https://drive.google.com/file/d/13vLZhrk0xgnxP6EwRM_qN4kKh3XPcIKG/preview"
+          src="https://drive.google.com/file/d/12ARKxykYvg_N2zj1kU2P3RtnDs-t_7RM/preview"
           width="700"
           height="825"
           allow="autoplay"
