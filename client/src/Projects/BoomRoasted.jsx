@@ -6,7 +6,7 @@ export default function BoomRoasted() {
       <div class="flex items-center w-full px-4 py-10 bg-cover card bg-base-200 z-0">
         <div class="card glass lg:card-side text-neutral-content">
           <figure class="p-6">
-            <img src="https://litter.catbox.moe/y58r2p.gif" />
+            <img src="https://litter.catbox.moe/ot1x33.gif" />
           </figure>
           <div class="card-body flex flex-col justify-center items-center text-center">
             <img class="card-title w-40" src="https://imgur.com/whQPVYY.jpg" />
