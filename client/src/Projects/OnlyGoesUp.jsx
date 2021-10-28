@@ -15,7 +15,9 @@ export default function OnlyGoesUp() {
             />
             <p class="mb-2">
               Cryptocurrency tracker that allows users to search, discover, and
-              keep track of their cryptocurrencies with real-time data.
+              keep track of their cryptocurrencies with real-time data. I built
+              this to gain experience having different API's communicate with
+              each other.
             </p>
             <div>
               <a
