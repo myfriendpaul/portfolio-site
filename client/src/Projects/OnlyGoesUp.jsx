@@ -6,7 +6,7 @@ export default function OnlyGoesUp() {
       <div class="flex items-center w-full px-4 py-10 bg-cover card bg-base-200 z-10">
         <div class="card glass lg:card-side text-neutral-content">
           <figure class="p-6">
-            <img src="https://litter.catbox.moe/tkkpj3.gif" />
+            <img src="https://litter.catbox.moe/aj84xa.gif" />
           </figure>
           <div class="card-body flex flex-col justify-center items-center text-center">
             <img
@@ -68,11 +68,17 @@ export default function OnlyGoesUp() {
                 class="mx-2"
               />
               <Icon
+                icon="vscode-icons:file-type-reactjs"
+                width="34"
+                height="34"
+                class="mx-2"
+              />
+              <Icon
                 icon="mdi:language-ruby-on-rails"
                 color="#c00"
                 width="40"
                 height="40"
-                class="-mt-1 mx-2"
+                class="-mt-1"
               />
               <Icon
                 icon="logos:postgresql"
