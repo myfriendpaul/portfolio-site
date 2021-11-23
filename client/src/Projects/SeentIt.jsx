@@ -13,7 +13,7 @@ export default function SeentIt() {
             <p class="mb-2">
               With the movie enthusiast in mind, Seen-It is a movie tracking
               application that enables users to search through the TMDB API and
-              add them to their Watch List.
+              add them to their Watch List
             </p>
             <div>
               <a
