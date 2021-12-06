@@ -6,7 +6,7 @@ export default function OnlyGoesUp() {
       <div class="flex items-center w-full px-4 py-10 bg-cover card bg-base-200 z-10">
         <div class="card glass lg:card-side text-neutral-content">
           <figure class="p-6">
-            <img src="https://litter.catbox.moe/wvy6fc.gif" />
+            <img src="https://litter.catbox.moe/scs01c.gif" />
           </figure>
           <div class="card-body flex flex-col justify-center items-center text-center">
             <img
