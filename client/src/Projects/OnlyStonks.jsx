@@ -6,7 +6,7 @@ export default function OnlyStonks() {
       <div class="flex items-center w-full px-4 pt-10 bg-cover card bg-base-200 z-10">
         <div class="card glass lg:card-side text-neutral-content">
           <figure class="p-6">
-            <img src="https://litter.catbox.moe/bkn3ir.gif" />
+            <img src="https://litter.catbox.moe/etgbut.gif" />
           </figure>
           <div class="card-body flex flex-col justify-center items-center text-center">
             <img src="https://imgur.com/638yHix.jpg" class="card-title w-40 " />

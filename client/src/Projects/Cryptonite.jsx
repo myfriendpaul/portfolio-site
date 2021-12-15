@@ -6,7 +6,7 @@ export default function Cryptonite() {
       <div class="flex items-center w-full px-4 pt-10 bg-cover card bg-base-200 z-10">
         <div class="card glass lg:card-side text-neutral-content">
           <figure class="p-6">
-            <img src="https://litter.catbox.moe/jnfu0m.gif" />
+            <img src="https://litter.catbox.moe/dkeuyu.gif" />
           </figure>
           <div class="card-body flex flex-col justify-center items-center text-center">
             <img src="https://imgur.com/DTPBDV9.jpg" class="card-title w-40 " />
